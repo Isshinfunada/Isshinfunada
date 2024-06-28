@@ -1,5 +1,8 @@
 ## Hi there I'm Isshin Funada 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Isshinfunada&count_private=true&theme=dracula)
+
+
 <!--
 **Isshinfunada/Isshinfunada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
