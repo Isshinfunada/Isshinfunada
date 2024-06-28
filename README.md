@@ -1,5 +1,6 @@
 ## Hi there I'm Isshin Funada 👋
 
+## growing day by day ... 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isshin-funada-041b66222) 
