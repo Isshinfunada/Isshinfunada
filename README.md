@@ -22,7 +22,7 @@ Last Updated on 10/16/2024, 1:01:30 AM</p>
 ![](https://github-profile-trophy.vercel.app/?username=Isshinfunada&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/isshinfunada?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/isshinfunada)
 ---
 [![](https://visitcount.itsvg.in/api?id=Isshinfunada&icon=0&color=0)](https://visitcount.itsvg.in)
 
