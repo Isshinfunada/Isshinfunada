@@ -12,3 +12,14 @@
 <p ><a href="https://lapras.com/public/GPJSBSP" target="_blank" rel="noopener noreferrer"><img alt="GPJSBSP's scores on LAPRAS are as follows: Engineering: 3.21 out of 5.0, Business: 3.36 out of 5.0, Influence: 2.87 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.21&b=3.36&i=2.87&b1=%23000000&b2=%2303ffbf&i1=%2379bd14&i2=%23cccccc&l=en" width="400" ></a>  
 Last Updated on 12/7/2024, 1:05:54 AM</p>
 <!--END_SECTION:lapras-card-->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Isshinfunada&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Isshinfunada&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isshinfunada&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Isshinfunada&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+# 📊 LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/isshinfunada)
+---
+[![](https://visitcount.itsvg.in/api?id=Isshinfunada&icon=0&color=0)](https://visitcount.itsvg.in)
