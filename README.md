@@ -14,9 +14,11 @@ Last Updated on 4/1/2025, 1:14:12 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Isshinfunada&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Isshinfunada&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isshinfunada&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isshinfunada&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Isshinfunada&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 # 📊 LeetCode Stats:
