@@ -14,6 +14,7 @@ Last Updated on 4/1/2025, 1:14:12 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # 📊 GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isshinfunada&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=Isshinfunada&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isshinfunada&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isshinfunada&theme=react&hide_border=false&include_all_commits=true&count_private=true)
