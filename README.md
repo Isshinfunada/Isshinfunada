@@ -14,8 +14,6 @@
 [![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isshinfunada&theme=react&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Isshinfunada&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 # 📊 LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isshinfunada)
 ---
