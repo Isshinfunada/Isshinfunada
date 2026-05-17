@@ -1,4 +1,4 @@
-## Hi there I'm Paraponera 👋
+## Hi there I'm Sencho（captain） 👋
 
 ## 座右の銘: 「運も実力のうち」
 
