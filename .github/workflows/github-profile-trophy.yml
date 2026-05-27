@@ -32,7 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN1: ${{ github.token }}
         run: |
-          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Isshinfunada ../assets/github-profile-trophy.svg tokyonight
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Isshinfunada ../assets/github-profile-trophy.svg gitdimmed
 
       - name: Update README trophy cache key
         run: |
