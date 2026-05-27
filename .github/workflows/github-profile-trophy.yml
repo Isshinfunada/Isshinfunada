@@ -34,8 +34,13 @@ jobs:
         run: |
           deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Isshinfunada ../assets/github-profile-trophy.svg tokyonight
 
+      - name: Update README trophy cache key
+        run: |
+          cache_key="${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          perl -0pi -e "s#assets/github-profile-trophy\\.svg(?:\\?v=[^)]*)?#assets/github-profile-trophy.svg?v=${cache_key}#g" README.md
+
       - name: Commit generated trophy
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update GitHub profile trophy"
-          file_pattern: assets/github-profile-trophy.svg
+          file_pattern: assets/github-profile-trophy.svg README.md
