@@ -1,0 +1,41 @@
+name: GitHub Profile Trophy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate trophy SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Checkout trophy generator
+        uses: actions/checkout@v4
+        with:
+          repository: ryo-ma/github-profile-trophy
+          path: github-profile-trophy
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v1.x
+
+      - name: Generate trophy
+        working-directory: github-profile-trophy
+        env:
+          GITHUB_TOKEN1: ${{ github.token }}
+        run: |
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Isshinfunada ../assets/github-profile-trophy.svg tokyonight
+
+      - name: Commit generated trophy
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub profile trophy"
+          file_pattern: assets/github-profile-trophy.svg
