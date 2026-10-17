@@ -20,23 +20,22 @@
 ### Tech
 
 <img src="assets/icons/go.png" width="48" height="48" alt="Go" />&nbsp;
-<img src="assets/icons/python.png" width="48" height="48" alt="Python" />&nbsp;
-<img src="assets/icons/javascript.png" width="48" height="48" alt="JavaScript" />&nbsp;
 <img src="assets/icons/typescript.png" width="48" height="48" alt="TypeScript" />&nbsp;
 <img src="assets/icons/google-cloud.png" width="48" height="48" alt="Google Cloud" />&nbsp;
 <img src="assets/icons/docker.png" width="48" height="48" alt="Docker" />&nbsp;
 <img src="assets/icons/kubernetes.png" width="48" height="48" alt="Kubernetes" />&nbsp;
-<img src="assets/icons/postgresql.png" width="48" height="48" alt="PostgreSQL" />
+<img src="assets/icons/postgresql.png" width="48" height="48" alt="PostgreSQL" />&nbsp;
+<img src="assets/icons/terraform.png" width="48" height="48" alt="Terraform" />
 <br />
-<sub>Go ・ Python ・ JavaScript ・ TypeScript ・ Google Cloud ・ Docker ・ Kubernetes ・ PostgreSQL</sub>
+<sub>Go ・ TypeScript ・ Google Cloud ・ Docker ・ Kubernetes ・ PostgreSQL ・ Terraform</sub>
 
 </div>
 
-<table width="100%">
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
-### Recently played
+<h3 align="center">Recently played</h3>
 
 <!-- START:music -->
 1. ダミー曲 1 — ダミーアーティスト A
@@ -49,7 +48,7 @@
 </td>
 <td width="50%" valign="top">
 
-### Recently read
+<h3 align="center">Recently read</h3>
 
 <!-- START:reading -->
 - [ダミー記事 1（zenn）](https://zenn.dev/)
