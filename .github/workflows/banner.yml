@@ -1,0 +1,30 @@
+name: banner
+
+# 1 時間ごとに JST の時刻でバナーを選び、変わったときだけ commit して push する。
+# 自宅サーバーには依存しない。
+on:
+  schedule:
+    - cron: "7 * * * *"   # 毎時 7 分（毎時 0 分は混みやすいので少しずらす）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: banner
+  cancel-in-progress: false
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pick banner by JST
+        run: bash scripts/pick-banner.sh
+      - name: Push if changed
+        run: |
+          if [ "$(git rev-list --count @{u}..HEAD)" != "0" ]; then
+            git push
+          else
+            echo "nothing to push"
+          fi

@@ -1,30 +1,68 @@
-## Hi there I'm Sencho（captain） 👋
+<div align="center">
+  <img src="assets/banner.gif" alt="荒波を越えるぱらぽねら" width="100%" />
+  <br />
+  <br />
+  <strong>ぱらぽねら</strong>
+  <br />
+  <sub>座右の銘: 運も実力のうち</sub>
+</div>
 
-## 座右の銘: 「運も実力のうち」
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isshin-funada-041b66222) 
-<a href="https://twitter.com/parapo0onera" ><img src="https://img.shields.io/twitter/follow/parapo0onera.svg?style=social" /> </a>
+### Links
 
-# LAPRAS:
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/GPJSBSP" target="_blank" rel="noopener noreferrer"><img alt="GPJSBSP's scores on LAPRAS are as follows: Engineering: 3.54 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.54&b=3.48&i=3.22&b1=%23000000&b2=%2303ffbf&i1=%2379bd14&i2=%23cccccc&l=en" width="400" ></a>  
-Last Updated on 10/16/2026, 4:05:22 AM</p>
-<!--END_SECTION:lapras-card-->
+<a href="https://my.prairie.cards/u/Parapo0onera"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/prairie-card-dark.png" /><img src="assets/icons/prairie-card-light.png" width="48" height="48" alt="Prairie Card" /></picture></a>&nbsp;&nbsp;
+<a href="https://x.com/parapo0onera"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.png" /><img src="assets/icons/x-light.png" width="48" height="48" alt="X" /></picture></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/isshin-funada-041b66222"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.png" /><img src="assets/icons/linkedin-light.png" width="48" height="48" alt="LinkedIn" /></picture></a>
+<br />
+<sub>Prairie Card ・ X ・ LinkedIn</sub>
 
-# 🏆 GitHub Trophies:
-![GitHub Profile Trophy](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/assets/github-profile-trophy.svg?v=38852303033-1)
+### Tech
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img src="assets/icons/go.png" width="48" height="48" alt="Go" />&nbsp;
+<img src="assets/icons/python.png" width="48" height="48" alt="Python" />&nbsp;
+<img src="assets/icons/javascript.png" width="48" height="48" alt="JavaScript" />&nbsp;
+<img src="assets/icons/typescript.png" width="48" height="48" alt="TypeScript" />&nbsp;
+<img src="assets/icons/google-cloud.png" width="48" height="48" alt="Google Cloud" />&nbsp;
+<img src="assets/icons/docker.png" width="48" height="48" alt="Docker" />&nbsp;
+<img src="assets/icons/kubernetes.png" width="48" height="48" alt="Kubernetes" />&nbsp;
+<img src="assets/icons/postgresql.png" width="48" height="48" alt="PostgreSQL" />
+<br />
+<sub>Go ・ Python ・ JavaScript ・ TypeScript ・ Google Cloud ・ Docker ・ Kubernetes ・ PostgreSQL</sub>
 
-# 📊 GitHub Stats:
-[![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Isshinfunada/Isshinfunada/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Isshinfunada&theme=react&hide_border=false)<br/>
+</div>
 
-# 📊 LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/isshinfunada)
----
-[![](https://visitcount.itsvg.in/api?id=Isshinfunada&icon=0&color=0)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Now playing
+
+<!-- START:music -->
+1. ダミー曲 1 — ダミーアーティスト A
+2. ダミー曲 2 — ダミーアーティスト B
+3. ダミー曲 3 — ダミーアーティスト C
+4. ダミー曲 4 — ダミーアーティスト D
+5. ダミー曲 5 — ダミーアーティスト E
+<!-- END:music -->
+
+</td>
+<td width="50%" valign="top">
+
+### Recently read
+
+<!-- START:reading -->
+- [ダミー記事 1（zenn）](https://zenn.dev/) <sub>2026-10-17</sub>
+- [ダミースライド 2（speakerdeck）](https://speakerdeck.com/) <sub>2026-10-16</sub>
+- [ダミー記事 3（zenn）](https://zenn.dev/) <sub>2026-10-15</sub>
+- [ダミースライド 4（speakerdeck）](https://speakerdeck.com/) <sub>2026-10-14</sub>
+- [ダミー記事 5（zenn）](https://zenn.dev/) <sub>2026-10-13</sub>
+<!-- END:reading -->
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Pixel icons: <a href="https://github.com/hackernoon/pixel-icon-library">HackerNoon Pixel Icon Library</a> (CC BY 4.0) ・ details in <a href="docs/credits.md">credits</a></sub>
+</div>
