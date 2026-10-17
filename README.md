@@ -51,9 +51,7 @@
 <h3 align="center">Recently read</h3>
 
 <!-- START:reading -->
-- [Zenn｜エンジニアのための情報共有コミュニティ](https://zenn.dev/)
-- [ログイン中](https://zenn.dev/auth/init?)
-- [Zenn｜エンジニアのための情報共有コミュニティ](https://zenn.dev/api/auth/google_oauth2?prompt=select_account+consent&redirect_to=%2F)
+（まだありません）
 <!-- END:reading -->
 
 </td>
