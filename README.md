@@ -36,7 +36,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Now playing
+### Recently played
 
 <!-- START:music -->
 1. ダミー曲 1 — ダミーアーティスト A
@@ -52,11 +52,11 @@
 ### Recently read
 
 <!-- START:reading -->
-- [ダミー記事 1（zenn）](https://zenn.dev/) <sub>2026-10-17</sub>
-- [ダミースライド 2（speakerdeck）](https://speakerdeck.com/) <sub>2026-10-16</sub>
-- [ダミー記事 3（zenn）](https://zenn.dev/) <sub>2026-10-15</sub>
-- [ダミースライド 4（speakerdeck）](https://speakerdeck.com/) <sub>2026-10-14</sub>
-- [ダミー記事 5（zenn）](https://zenn.dev/) <sub>2026-10-13</sub>
+- [ダミー記事 1（zenn）](https://zenn.dev/)
+- [ダミースライド 2（speakerdeck）](https://speakerdeck.com/)
+- [ダミー記事 3（zenn）](https://zenn.dev/)
+- [ダミースライド 4（speakerdeck）](https://speakerdeck.com/)
+- [ダミー記事 5（zenn）](https://zenn.dev/)
 <!-- END:reading -->
 
 </td>
