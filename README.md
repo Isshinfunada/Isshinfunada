@@ -3,7 +3,7 @@
 </div>
 
 <!-- START:music -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/now-playing-dark.svg"><img src="assets/cards/now-playing-light.svg" width="400" alt="Most played"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/now-playing-dark.svg"><img src="assets/cards/now-playing-light.svg" width="400" align="right" alt="Most played"></picture>
 <!-- END:music -->
 
 <h3 align="center">Links</h3>
