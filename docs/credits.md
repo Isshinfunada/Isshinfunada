@@ -17,6 +17,14 @@ README のアイコンの出典とライセンス。
   - Terraform も Simple Icons に収録されている公式ロゴ（`terraform`）から同じ方式で作った。他の 6 個と出典・ライセンスは同じ
   - ロゴは各技術を指すためにだけ使い、各社の公認や提携を示すものではない
 
+## カードの文字（assets/cards の SVG）
+
+- **Noto Sans JP**（本文。現行のカード）— https://github.com/notofonts/noto-cjk（Google Fonts 配布）。Copyright 2014-2021 Adobe。**SIL Open Font License 1.1**（https://openfontlicense.org）。全文は `scripts/cards/fonts/NotoSansJP-OFL.txt`。予約フォント名 `Source` の宣言があるが、その名前は使っていない
+- **DotGothic16**（旧版の見出し。現行のカードでは使っていない）— https://github.com/fontworks-fonts/DotGothic16。Copyright 2020 The DotGothic16 Project Authors。SIL Open Font License 1.1。全文は `scripts/cards/fonts/OFL.txt`
+- どちらも SVG で使う文字だけにサブセットし、base64 の `@font-face` として SVG に埋め込んでいる（改変にあたるが OFL は許可）。SVG 内のコメントにも著作権とライセンスを書いてある
+- カードの構成は JeffreyCA の spotify-recently-played-readme（https://github.com/JeffreyCA/spotify-recently-played-readme）の SVG を参考にした（寸法・配置・色の傾向を読み取っただけで、コードや画像は使っていない）
+- 曲のアルバムアート・記事の OGP 画像は各権利者のもの。リンク先の公開情報から縮小して表示している
+
 ## 使っていないが検討したもの
 
 見比べ用の候補シートは `assets/icons-candidates.png`（リポジトリには入れない）。
