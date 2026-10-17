@@ -38,11 +38,11 @@
 <h3 align="center">Recently played</h3>
 
 <!-- START:music -->
-1. ダミー曲 1 — ダミーアーティスト A
-2. ダミー曲 2 — ダミーアーティスト B
-3. ダミー曲 3 — ダミーアーティスト C
-4. ダミー曲 4 — ダミーアーティスト D
-5. ダミー曲 5 — ダミーアーティスト E
+1. さよならべいべ - SAYONARA Baby — Fujii Kaze
+2. 賜物 - Tamamono — Radwimps
+3. Why I'm Me — RIZE
+4. Silver — RIZE
+5. Make It Out Alive — ONE OK ROCK
 <!-- END:music -->
 
 </td>
@@ -51,11 +51,9 @@
 <h3 align="center">Recently read</h3>
 
 <!-- START:reading -->
-- [ダミー記事 1（zenn）](https://zenn.dev/)
-- [ダミースライド 2（speakerdeck）](https://speakerdeck.com/)
-- [ダミー記事 3（zenn）](https://zenn.dev/)
-- [ダミースライド 4（speakerdeck）](https://speakerdeck.com/)
-- [ダミー記事 5（zenn）](https://zenn.dev/)
+- [Zenn｜エンジニアのための情報共有コミュニティ](https://zenn.dev/)
+- [ログイン中](https://zenn.dev/auth/init?)
+- [Zenn｜エンジニアのための情報共有コミュニティ](https://zenn.dev/api/auth/google_oauth2?prompt=select_account+consent&redirect_to=%2F)
 <!-- END:reading -->
 
 </td>
