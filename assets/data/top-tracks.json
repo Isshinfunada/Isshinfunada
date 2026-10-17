@@ -1,37 +1,37 @@
 [
   {
-    "title": "一難 - Undertaker",
-    "artist": "Penthouse",
-    "plays": 1,
-    "last_played": "2026-10-17T04:10:16Z",
-    "url": "https://music.youtube.com/watch?v=2vFfbXdHi4k"
-  },
-  {
-    "title": "アイドルパワー - IDOLPOWER",
-    "artist": "M!LK",
-    "plays": 1,
-    "last_played": "2026-10-17T04:10:16Z",
-    "url": "https://music.youtube.com/watch?v=e1pe3TmAWf4"
-  },
-  {
     "title": "恋、はじめました。",
     "artist": "=LOVE",
-    "plays": 1,
+    "plays": 20,
     "last_played": "2026-10-17T04:10:16Z",
     "url": "https://music.youtube.com/watch?v=1wxHLrSmYNg"
   },
   {
-    "title": "雨の街路に夜光蟲 - Ameno Gaironi Yakouchuu",
-    "artist": "Kenshi Yonezu",
-    "plays": 1,
-    "last_played": "2026-10-17T04:10:16Z",
-    "url": "https://music.youtube.com/watch?v=W3oN4-NVvhc"
-  },
-  {
     "title": "RED OUT",
     "artist": "Kenshi Yonezu",
-    "plays": 1,
+    "plays": 11,
     "last_played": "2026-10-17T04:10:16Z",
     "url": "https://music.youtube.com/watch?v=iwl8Vqh_Tjs"
+  },
+  {
+    "title": "歩きつづけるかぎり",
+    "artist": "Dohatsuten",
+    "plays": 10,
+    "last_played": "2026-10-11T22:32:00Z",
+    "url": "https://music.youtube.com/watch?v=lyxA_R2dHVg"
+  },
+  {
+    "title": "一難 - Undertaker",
+    "artist": "Penthouse",
+    "plays": 8,
+    "last_played": "2026-10-17T04:10:16Z",
+    "url": "https://music.youtube.com/watch?v=2vFfbXdHi4k"
+  },
+  {
+    "title": "HYPNOTIZE",
+    "artist": "XG",
+    "plays": 8,
+    "last_played": "2026-10-15T04:36:24Z",
+    "url": "https://music.youtube.com/watch?v=anzBQFMJK-s"
   }
 ]
