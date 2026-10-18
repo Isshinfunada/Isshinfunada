@@ -14,6 +14,13 @@
     "url": "https://music.youtube.com/watch?v=iwl8Vqh_Tjs"
   },
   {
+    "title": "HYPNOTIZE",
+    "artist": "XG",
+    "plays": 10,
+    "last_played": "2026-10-18T02:05:41Z",
+    "url": "https://music.youtube.com/watch?v=anzBQFMJK-s"
+  },
+  {
     "title": "歩きつづけるかぎり",
     "artist": "Dohatsuten",
     "plays": 10,
@@ -26,12 +33,5 @@
     "plays": 9,
     "last_played": "2026-10-18T01:05:48Z",
     "url": "https://music.youtube.com/watch?v=2vFfbXdHi4k"
-  },
-  {
-    "title": "HYPNOTIZE",
-    "artist": "XG",
-    "plays": 9,
-    "last_played": "2026-10-18T01:05:15Z",
-    "url": "https://music.youtube.com/watch?v=anzBQFMJK-s"
   }
 ]
