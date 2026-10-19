@@ -3,7 +3,7 @@
     "title": "恋、はじめました。",
     "artist": "=LOVE",
     "plays": 20,
-    "last_played": "2026-10-18T06:05:42Z",
+    "last_played": "2026-10-19T11:05:11Z",
     "url": "https://music.youtube.com/watch?v=1wxHLrSmYNg"
   },
   {
@@ -16,9 +16,16 @@
   {
     "title": "歩きつづけるかぎり",
     "artist": "怒髪天",
-    "plays": 9,
-    "last_played": "2026-10-18T23:05:52Z",
+    "plays": 10,
+    "last_played": "2026-10-19T11:05:41Z",
     "url": "https://music.youtube.com/watch?v=lyxA_R2dHVg"
+  },
+  {
+    "title": "シャンディガフ - Shandy Gaff",
+    "artist": "sakanaction",
+    "plays": 9,
+    "last_played": "2026-10-19T11:05:45Z",
+    "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
   },
   {
     "title": "一難 - Undertaker",
@@ -26,12 +33,5 @@
     "plays": 9,
     "last_played": "2026-10-18T01:05:48Z",
     "url": "https://music.youtube.com/watch?v=2vFfbXdHi4k"
-  },
-  {
-    "title": "シャンディガフ - Shandy Gaff",
-    "artist": "sakanaction",
-    "plays": 8,
-    "last_played": "2026-10-19T05:05:51Z",
-    "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
   }
 ]
