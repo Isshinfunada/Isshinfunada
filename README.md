@@ -36,11 +36,7 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://speakerdeck.com/watany/dark-factory-for-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="ロボットのための工場に灯りは要らない"></picture></a><br>
-<a href="https://zenn.dev/akari1106/articles/9d2abbc63a4abb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る"></picture></a><br>
-<a href="https://zenn.dev/softbank/articles/6f98cf7c4ebfd3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる"></picture></a><br>
-<a href="https://zenn.dev/aishift/articles/2055678d98e1c1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="gVisor は「安全」か？――多層防御は何を変えるのか"></picture></a><br>
-<a href="https://zenn.dev/yoshihiko555/articles/ea2db6070058b3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる手順"></picture></a>
+<a href="https://speakerdeck.com/watany/dark-factory-for-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="ロボットのための工場に灯りは要らない"></picture></a>
 <!-- END:reading -->
 </div>
 

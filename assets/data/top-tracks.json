@@ -14,6 +14,13 @@
     "url": "https://music.youtube.com/watch?v=iwl8Vqh_Tjs"
   },
   {
+    "title": "Make It Out Alive",
+    "artist": "ONE OK ROCK",
+    "plays": 9,
+    "last_played": "2026-10-20T13:05:51Z",
+    "url": "https://music.youtube.com/watch?v=NIioTc_Yz_0"
+  },
+  {
     "title": "シャンディガフ - Shandy Gaff",
     "artist": "sakanaction",
     "plays": 9,
@@ -26,12 +33,5 @@
     "plays": 9,
     "last_played": "2026-10-19T11:05:41Z",
     "url": "https://music.youtube.com/watch?v=lyxA_R2dHVg"
-  },
-  {
-    "title": "一難 - Undertaker",
-    "artist": "Penthouse",
-    "plays": 9,
-    "last_played": "2026-10-18T01:05:48Z",
-    "url": "https://music.youtube.com/watch?v=2vFfbXdHi4k"
   }
 ]
