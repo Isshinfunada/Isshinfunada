@@ -36,7 +36,9 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://speakerdeck.com/watany/dark-factory-for-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="ロボットのための工場に灯りは要らない"></picture></a>
+<a href="https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う"></picture></a><br>
+<a href="https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜"></picture></a><br>
+<a href="https://speakerdeck.com/watany/dark-factory-for-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ロボットのための工場に灯りは要らない"></picture></a>
 <!-- END:reading -->
 </div>
 
