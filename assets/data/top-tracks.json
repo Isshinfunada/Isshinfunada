@@ -2,16 +2,23 @@
   {
     "title": "恋、はじめました。",
     "artist": "=LOVE",
-    "plays": 19,
-    "last_played": "2026-10-22T15:05:40Z",
+    "plays": 20,
+    "last_played": "2026-10-23T00:05:31Z",
     "url": "https://music.youtube.com/watch?v=1wxHLrSmYNg"
   },
   {
     "title": "Make It Out Alive",
     "artist": "ONE OK ROCK",
-    "plays": 14,
-    "last_played": "2026-10-22T15:05:43Z",
+    "plays": 15,
+    "last_played": "2026-10-23T00:05:34Z",
     "url": "https://music.youtube.com/watch?v=NIioTc_Yz_0"
+  },
+  {
+    "title": "シャンディガフ - Shandy Gaff",
+    "artist": "sakanaction",
+    "plays": 12,
+    "last_played": "2026-10-23T00:05:06Z",
+    "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
   },
   {
     "title": "RED OUT",
@@ -21,17 +28,10 @@
     "url": "https://music.youtube.com/watch?v=iwl8Vqh_Tjs"
   },
   {
-    "title": "シャンディガフ - Shandy Gaff",
-    "artist": "sakanaction",
-    "plays": 11,
-    "last_played": "2026-10-22T15:05:15Z",
-    "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
-  },
-  {
     "title": "駄叉 - Dasa",
     "artist": "jo0ji",
-    "plays": 9,
-    "last_played": "2026-10-22T15:05:48Z",
+    "plays": 10,
+    "last_played": "2026-10-23T00:05:39Z",
     "url": "https://music.youtube.com/watch?v=XaIMmPQ9KcM"
   }
 ]
