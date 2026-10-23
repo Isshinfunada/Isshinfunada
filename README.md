@@ -16,10 +16,10 @@
 
 <div>
 <!-- START:languages -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/top-languages-dark.svg"><img src="assets/cards/top-languages-light.svg" width="400" align="left" alt="Top languages"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/top-languages-dark.svg"><img src="assets/cards/top-languages-light.svg" width="400" alt="Top languages"></picture>
 <!-- END:languages -->
 <!-- START:music -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/now-playing-dark.svg"><img src="assets/cards/now-playing-light.svg" width="400" align="right" alt="Most played"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/now-playing-dark.svg"><img src="assets/cards/now-playing-light.svg" width="400" alt="Most played"></picture>
 <!-- END:music -->
 </div>
 <br clear="all">
