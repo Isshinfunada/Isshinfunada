@@ -19,7 +19,7 @@
 <!-- END:languages -->
 
 <!-- START:music -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/now-playing-dark.svg"><img src="assets/cards/now-playing-light.svg" width="400" align="right" alt="Recently played"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/now-playing-dark.svg"><img src="assets/cards/now-playing-light.svg" width="400" align="right" alt="Most played"></picture>
 <!-- END:music -->
 
 <br clear="all">
@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/akari1106/articles/9d2abbc63a4abb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る"></picture></a>
-<a href="https://zenn.dev/softbank/articles/6f98cf7c4ebfd3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる"></picture></a>
-<a href="https://zenn.dev/aishift/articles/2055678d98e1c1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="gVisor は「安全」か？――多層防御は何を変えるのか"></picture></a>
-<a href="https://zenn.dev/yoshihiko555/articles/ea2db6070058b3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる…"></picture></a>
-<a href="https://zenn.dev/emuni/articles/ooui-agent-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="オブジェクト指向UIデザインをAgent Skillにして、Claudeが作るUIはどう変わるか…"></picture></a>
+<a href="https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う"></picture></a><br>
+<a href="https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜"></picture></a><br>
+<a href="https://speakerdeck.com/watany/dark-factory-for-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ロボットのための工場に灯りは要らない"></picture></a><br>
+<a href="https://zenn.dev/akari1106/articles/9d2abbc63a4abb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る"></picture></a><br>
+<a href="https://zenn.dev/softbank/articles/6f98cf7c4ebfd3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる"></picture></a>
 <!-- END:reading -->
 </div>
 
