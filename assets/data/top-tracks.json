@@ -1,5 +1,12 @@
 [
   {
+    "title": "Make It Out Alive",
+    "artist": "ONE OK ROCK",
+    "plays": 18,
+    "last_played": "2026-10-25T23:05:51Z",
+    "url": "https://music.youtube.com/watch?v=NIioTc_Yz_0"
+  },
+  {
     "title": "恋、はじめました。",
     "artist": "=LOVE",
     "plays": 18,
@@ -7,17 +14,10 @@
     "url": "https://music.youtube.com/watch?v=1wxHLrSmYNg"
   },
   {
-    "title": "Make It Out Alive",
-    "artist": "ONE OK ROCK",
-    "plays": 17,
-    "last_played": "2026-10-25T11:05:30Z",
-    "url": "https://music.youtube.com/watch?v=NIioTc_Yz_0"
-  },
-  {
     "title": "RED OUT",
     "artist": "Kenshi Yonezu",
-    "plays": 14,
-    "last_played": "2026-10-25T11:04:54Z",
+    "plays": 15,
+    "last_played": "2026-10-25T23:05:15Z",
     "url": "https://music.youtube.com/watch?v=iwl8Vqh_Tjs"
   },
   {
@@ -28,10 +28,10 @@
     "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
   },
   {
-    "title": "駄叉 - Dasa",
+    "title": "I-BULL - iburu",
     "artist": "jo0ji",
     "plays": 10,
-    "last_played": "2026-10-23T00:05:39Z",
-    "url": "https://music.youtube.com/watch?v=XaIMmPQ9KcM"
+    "last_played": "2026-10-25T23:05:08Z",
+    "url": "https://music.youtube.com/watch?v=7trGHzQisAM"
   }
 ]
