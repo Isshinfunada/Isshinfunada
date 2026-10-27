@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/nexta_/articles/unit-testing-principles-essence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス"></picture></a><br>
-<a href="https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う"></picture></a><br>
-<a href="https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜"></picture></a><br>
-<a href="https://zenn.dev/ara_jlu/articles/per-task-review-dropped"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Claude Codeのステップごとのレビューを既定から外した理由"></picture></a><br>
-<a href="https://speakerdeck.com/aokiplayer/field-engineer-at-tamagawa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="フィールドエンジニア at 多摩川 / Field Engineer at Tamagawa"></picture></a>
+<a href="https://zenn.dev/dress_code/articles/f2a51226c9ec6f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="スタックトレースを読むとヒープが約1,470 MB増えていた話"></picture></a><br>
+<a href="https://zenn.dev/chot/articles/79e6c94e27782d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Node.js の Brotli 脆弱性 CVE-2026-111497 を読む"></picture></a><br>
+<a href="https://zenn.dev/polyco/articles/26624b38c951b5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="最近の E2E 戦略（2026 年 10 月現在）"></picture></a><br>
+<a href="https://zenn.dev/r_sa43/articles/dbbdc2fbbf59c7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Kotlin で kintone をカスタマイズする"></picture></a><br>
+<a href="https://zenn.dev/nexta_/articles/unit-testing-principles-essence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス"></picture></a>
 <!-- END:reading -->
 </div>
 
