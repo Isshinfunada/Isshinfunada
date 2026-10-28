@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ"></picture></a><br>
-<a href="https://zenn.dev/microsoft/articles/explain-before-shorten"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AI の謎な説明文を直すスキル"></picture></a><br>
-<a href="https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Microsoft offers buyouts to around 60,000 employees &#124; TechCrunch"></picture></a><br>
-<a href="https://zenn.dev/dress_code/articles/f2a51226c9ec6f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="スタックトレースを読むとヒープが約1,470 MB増えていた話"></picture></a><br>
-<a href="https://zenn.dev/chot/articles/79e6c94e27782d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Node.js の Brotli 脆弱性 CVE-2026-111497 を読む"></picture></a>
+<a href="https://zenn.dev/polyco/articles/26624b38c951b5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="最近の E2E 戦略（2026 年 10 月現在）"></picture></a><br>
+<a href="https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Opera introduces a new web standard to let users deploy AI locally in their brow…"></picture></a><br>
+<a href="https://zenn.dev/nrs/articles/c777388530aa84"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="コードを読まずにマージするために必要なこと"></picture></a><br>
+<a href="https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ"></picture></a><br>
+<a href="https://zenn.dev/microsoft/articles/explain-before-shorten"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AI の謎な説明文を直すスキル"></picture></a>
 <!-- END:reading -->
 </div>
 
