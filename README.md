@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/dress_code/articles/f2a51226c9ec6f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="スタックトレースを読むとヒープが約1,470 MB増えていた話"></picture></a><br>
-<a href="https://zenn.dev/chot/articles/79e6c94e27782d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Node.js の Brotli 脆弱性 CVE-2026-111497 を読む"></picture></a><br>
-<a href="https://zenn.dev/microsoft/articles/explain-before-shorten"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="AI の謎な説明文を直すスキル"></picture></a><br>
-<a href="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Anthropic officially files for its public debut &#124; TechCrunch"></picture></a><br>
-<a href="https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Microsoft offers buyouts to around 60,000 employees &#124; TechCrunch"></picture></a>
+<a href="https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="AI時代のシニアエンジニアとは"></picture></a><br>
+<a href="https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AIがコードを書いてくれる時代、我々は何を確かめるのか"></picture></a><br>
+<a href="https://zenn.dev/dress_code/articles/f2a51226c9ec6f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="スタックトレースを読むとヒープが約1,470 MB増えていた話"></picture></a><br>
+<a href="https://zenn.dev/chot/articles/79e6c94e27782d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Node.js の Brotli 脆弱性 CVE-2026-111497 を読む"></picture></a><br>
+<a href="https://zenn.dev/microsoft/articles/explain-before-shorten"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AI の謎な説明文を直すスキル"></picture></a>
 <!-- END:reading -->
 </div>
 
