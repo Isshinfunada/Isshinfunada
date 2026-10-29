@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="AI時代のシニアエンジニアとは"></picture></a><br>
-<a href="https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AIがコードを書いてくれる時代、我々は何を確かめるのか"></picture></a><br>
-<a href="https://zenn.dev/dress_code/articles/f2a51226c9ec6f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="スタックトレースを読むとヒープが約1,470 MB増えていた話"></picture></a><br>
-<a href="https://zenn.dev/chot/articles/79e6c94e27782d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Node.js の Brotli 脆弱性 CVE-2026-111497 を読む"></picture></a><br>
-<a href="https://zenn.dev/microsoft/articles/explain-before-shorten"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AI の謎な説明文を直すスキル"></picture></a>
+<a href="https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜"></picture></a><br>
+<a href="https://qiita.com/karamage/items/771b633c3243989418a2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="エンジニアの劣等感との付き合い方 - Qiita"></picture></a><br>
+<a href="https://zenn.dev/ababup1192/articles/77b844dcfc1529"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="AI開発時代だからこそ、テストの役割を見つめ直す"></picture></a><br>
+<a href="https://note.com/suthio/n/n23d6b9d64662"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="フィードバックが刺さらない人は4つのタイプに分けられる｜すてぃお"></picture></a><br>
+<a href="https://zenn.dev/polyco/articles/26624b38c951b5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="最近の E2E 戦略（2026 年 10 月現在）"></picture></a>
 <!-- END:reading -->
 </div>
 
