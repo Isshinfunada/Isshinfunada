@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践"></picture></a><br>
-<a href="https://zenn.dev/dress_code/articles/bbc5159fefbd2c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年"></picture></a><br>
-<a href="https://zenn.dev/sre_holdings/articles/d4acb079680a79"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？"></picture></a><br>
-<a href="https://zenn.dev/ababup1192/articles/77b844dcfc1529"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="AI開発時代だからこそ、テストの役割を見つめ直す"></picture></a><br>
-<a href="https://qiita.com/karamage/items/771b633c3243989418a2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="エンジニアの劣等感との付き合い方 - Qiita"></picture></a>
+<a href="https://zenn.dev/ryonakae/articles/8783c6b3ead2cb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="grill-me スキルがめちゃ良いので布教したい"></picture></a><br>
+<a href="https://zenn.dev/ababup1192/articles/77b844dcfc1529"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AI開発時代だからこそ、テストの役割を見つめ直す"></picture></a><br>
+<a href="https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践"></picture></a><br>
+<a href="https://zenn.dev/dress_code/articles/bbc5159fefbd2c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年"></picture></a><br>
+<a href="https://zenn.dev/sre_holdings/articles/d4acb079680a79"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？"></picture></a>
 <!-- END:reading -->
 </div>
 
