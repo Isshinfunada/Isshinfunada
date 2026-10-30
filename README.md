@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/ryonakae/articles/8783c6b3ead2cb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="grill-me スキルがめちゃ良いので布教したい"></picture></a><br>
+<a href="https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う"></picture></a><br>
 <a href="https://zenn.dev/ababup1192/articles/77b844dcfc1529"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AI開発時代だからこそ、テストの役割を見つめ直す"></picture></a><br>
-<a href="https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践"></picture></a><br>
-<a href="https://zenn.dev/dress_code/articles/bbc5159fefbd2c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年"></picture></a><br>
-<a href="https://zenn.dev/sre_holdings/articles/d4acb079680a79"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？"></picture></a>
+<a href="https://note.com/megu0804/n/na248f9ca2527"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="【誤解してた】「賢者は歴史から学ぶ」の本当の意味｜ささき めぐみ"></picture></a><br>
+<a href="https://zenn.dev/ryonakae/articles/8783c6b3ead2cb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="grill-me スキルがめちゃ良いので布教したい"></picture></a><br>
+<a href="https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践"></picture></a>
 <!-- END:reading -->
 </div>
 
