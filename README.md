@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う"></picture></a><br>
-<a href="https://qiita.com/youtoy/items/cf186a27c996e8bc8ee7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="イベントに便利そうなデジタル缶バッジ（技適あり）の情報を少しメモする： Adget デジタル缶バッジ Can-Badge - Qiita"></picture></a><br>
-<a href="https://zenn.dev/ababup1192/articles/77b844dcfc1529"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="AI開発時代だからこそ、テストの役割を見つめ直す"></picture></a><br>
-<a href="https://note.com/megu0804/n/na248f9ca2527"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="【誤解してた】「賢者は歴史から学ぶ」の本当の意味｜ささき めぐみ"></picture></a><br>
-<a href="https://zenn.dev/ryonakae/articles/8783c6b3ead2cb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="grill-me スキルがめちゃ良いので布教したい"></picture></a>
+<a href="https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Researchers warned of North Korean hacking tactics years before record $6.3B Bin…"></picture></a><br>
+<a href="https://zenn.dev/babarot/articles/regomark-adr-checker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="ADRをregoでlintする"></picture></a><br>
+<a href="https://zenn.dev/luvtechno/articles/isucon2026-competition-day"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ISUCON2026 で優勝しました（当日編）"></picture></a><br>
+<a href="https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う"></picture></a><br>
+<a href="https://qiita.com/youtoy/items/cf186a27c996e8bc8ee7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="イベントに便利そうなデジタル缶バッジ（技適あり）の情報を少しメモする： Adget デジタル缶バッジ Can-Badge - Qiita"></picture></a>
 <!-- END:reading -->
 </div>
 
