@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/babarot/articles/regomark-adr-checker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="ADRをregoでlintする"></picture></a><br>
-<a href="https://note.com/msolutions/n/n4e0b4f243b6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="「kintoneって安全なの？」と聞かれて詰まらないために。情シスが押さえる守りの3層と説明資料のつくり方｜M-SOLUTIONS株式会社"></picture></a><br>
-<a href="https://note.com/plugbits/n/n5bd54b21b1dd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="kintone のプラグインを、チャットで頼んで作れるようになりました｜オケオ"></picture></a><br>
-<a href="https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Researchers warned of North Korean hacking tactics years before record $6.3B Bin…"></picture></a><br>
-<a href="https://zenn.dev/luvtechno/articles/isucon2026-competition-day"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="ISUCON2026 で優勝しました（当日編）"></picture></a>
+<a href="https://gigazine.net/news/20261104-project-nomad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」"></picture></a><br>
+<a href="https://zenn.dev/genda_jp/articles/a5cbba3664748b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計"></picture></a><br>
+<a href="https://zenn.dev/babarot/articles/regomark-adr-checker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ADRをregoでlintする"></picture></a><br>
+<a href="https://note.com/msolutions/n/n4e0b4f243b6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="「kintoneって安全なの？」と聞かれて詰まらないために。情シスが押さえる守りの3層と説明資料のつくり方｜M-SOLUTIONS株式会社"></picture></a><br>
+<a href="https://note.com/plugbits/n/n5bd54b21b1dd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="kintone のプラグインを、チャットで頼んで作れるようになりました｜オケオ"></picture></a>
 <!-- END:reading -->
 </div>
 
