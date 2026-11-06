@@ -21,17 +21,17 @@
     "url": "https://music.youtube.com/watch?v=X5yaPogkT9I"
   },
   {
-    "title": "シャンディガフ - Shandy Gaff",
-    "artist": "sakanaction",
-    "plays": 12,
-    "last_played": "2026-10-23T00:05:06Z",
-    "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
-  },
-  {
     "title": "恋、はじめました。",
     "artist": "=LOVE",
     "plays": 11,
     "last_played": "2026-10-23T00:05:31Z",
     "url": "https://music.youtube.com/watch?v=1wxHLrSmYNg"
+  },
+  {
+    "title": "シャンディガフ - Shandy Gaff",
+    "artist": "sakanaction",
+    "plays": 11,
+    "last_played": "2026-10-23T00:05:06Z",
+    "url": "https://music.youtube.com/watch?v=i2PbIDXjHjY"
   }
 ]
