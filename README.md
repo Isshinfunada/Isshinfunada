@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://note.com/orisusarusan/n/n58e8226696fa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="MacBookのクラムシェルモードってどうやるの？を解説します｜Kazuya"></picture></a><br>
-<a href="https://zenn.dev/ntk221/articles/34ad88a9225364"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AI駆動文章作成において俺が意識しているテクニック集"></picture></a><br>
-<a href="https://note.com/takahiroanno/n/n9ed37aee1f18"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="なぜフランス政府はDeepSeekを使い倒しているのか？ 「技術に懐疑的」な国で見たAIとの向き合い方、第三の道。｜安野貴博"></picture></a><br>
-<a href="https://gigazine.net/news/20261104-project-nomad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」"></picture></a><br>
-<a href="https://zenn.dev/genda_jp/articles/a5cbba3664748b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計"></picture></a>
+<a href="https://go.dev/blog/jsonv2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="A new Go API for JSON - The Go Programming Language"></picture></a><br>
+<a href="https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話"></picture></a><br>
+<a href="https://zenn.dev/wakame_atsushi/articles/8c45ac07bac534"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Go の defer の動きをちょっと調べてみた"></picture></a><br>
+<a href="https://note.com/orisusarusan/n/n58e8226696fa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="MacBookのクラムシェルモードってどうやるの？を解説します｜Kazuya"></picture></a><br>
+<a href="https://zenn.dev/ntk221/articles/34ad88a9225364"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AI駆動文章作成において俺が意識しているテクニック集"></picture></a>
 <!-- END:reading -->
 </div>
 
