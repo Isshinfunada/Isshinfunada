@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Go における Graceful Shutdown とハマりどころ"></picture></a><br>
-<a href="https://note.com/kurakaz/n/n001402388169"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="kintone認定資格チーム オフサイトミーティング報告書｜倉林 一範"></picture></a><br>
-<a href="https://zenn.dev/mixi/articles/b0ea64fded9503"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？"></picture></a><br>
-<a href="https://go.dev/blog/jsonv2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="A new Go API for JSON - The Go Programming Language"></picture></a><br>
-<a href="https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話"></picture></a>
+<a href="https://zenn.dev/jyoppomu/articles/4bd0ddfc75545b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Gherkin記法はじめました"></picture></a><br>
+<a href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Go における Graceful Shutdown とハマりどころ"></picture></a><br>
+<a href="https://note.com/kurakaz/n/n001402388169"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="kintone認定資格チーム オフサイトミーティング報告書｜倉林 一範"></picture></a><br>
+<a href="https://zenn.dev/mixi/articles/b0ea64fded9503"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？"></picture></a><br>
+<a href="https://go.dev/blog/jsonv2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="A new Go API for JSON - The Go Programming Language"></picture></a>
 <!-- END:reading -->
 </div>
 
