@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://go.dev/blog/jsonv2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="A new Go API for JSON - The Go Programming Language"></picture></a><br>
-<a href="https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話"></picture></a><br>
-<a href="https://zenn.dev/wakame_atsushi/articles/8c45ac07bac534"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Go の defer の動きをちょっと調べてみた"></picture></a><br>
-<a href="https://note.com/orisusarusan/n/n58e8226696fa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="MacBookのクラムシェルモードってどうやるの？を解説します｜Kazuya"></picture></a><br>
-<a href="https://zenn.dev/ntk221/articles/34ad88a9225364"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AI駆動文章作成において俺が意識しているテクニック集"></picture></a>
+<a href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Go における Graceful Shutdown とハマりどころ"></picture></a><br>
+<a href="https://zenn.dev/mixi/articles/b0ea64fded9503"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？"></picture></a><br>
+<a href="https://go.dev/blog/jsonv2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="A new Go API for JSON - The Go Programming Language"></picture></a><br>
+<a href="https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話"></picture></a><br>
+<a href="https://zenn.dev/wakame_atsushi/articles/8c45ac07bac534"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Go の defer の動きをちょっと調べてみた"></picture></a>
 <!-- END:reading -->
 </div>
 
