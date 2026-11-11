@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/oikon/articles/claude-code-recipe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Claude Codeで最近使っているTips【2026/11】"></picture></a><br>
-<a href="https://zenn.dev/jyoppomu/articles/4bd0ddfc75545b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Gherkin記法はじめました"></picture></a><br>
-<a href="https://qiita.com/jnchito/items/42193d066bd61c740612"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」 - Qiita"></picture></a><br>
-<a href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Go における Graceful Shutdown とハマりどころ"></picture></a><br>
-<a href="https://note.com/kurakaz/n/n001402388169"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="kintone認定資格チーム オフサイトミーティング報告書｜倉林 一範"></picture></a>
+<a href="https://note.com/aki_366/n/n10ea8118b20e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="自己紹介｜aki366 / akihiro okuda"></picture></a><br>
+<a href="https://zenn.dev/oikon/articles/claude-code-recipe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Claude Codeで最近使っているTips【2026/11】"></picture></a><br>
+<a href="https://zenn.dev/jyoppomu/articles/4bd0ddfc75545b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Gherkin記法はじめました"></picture></a><br>
+<a href="https://qiita.com/jnchito/items/42193d066bd61c740612"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」 - Qiita"></picture></a><br>
+<a href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="Go における Graceful Shutdown とハマりどころ"></picture></a>
 <!-- END:reading -->
 </div>
 
