@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Claude Fable 5.2のプロンプトガイドを読んで正直に思ったことを書く"></picture></a><br>
-<a href="https://zenn.dev/luvtechno/articles/isucon2026-preparation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="ISUCON2026 で優勝しました（準備編）"></picture></a><br>
-<a href="https://zenn.dev/muson/articles/49c44db4d1853f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="React/React Native/TypeScriptの圧縮ライブラリ 簡易まとめ"></picture></a><br>
-<a href="https://www.itmedia.co.jp/business/articles/2610/19/news026.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="�ukintone�̑΍R�n�v���&#92;�&#92;���N�X�uASURACORE�v���g�����グ1000���~�h���&#95;���郏�P"></picture></a><br>
-<a href="https://note.com/aki_366/n/n10ea8118b20e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="自己紹介｜aki366 / akihiro okuda"></picture></a>
+<a href="https://qiita.com/nfujita55a/items/260750312c565835acaf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした - Qiita"></picture></a><br>
+<a href="https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Claude Fable 5.2のプロンプトガイドを読んで正直に思ったことを書く"></picture></a><br>
+<a href="https://zenn.dev/luvtechno/articles/isucon2026-preparation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ISUCON2026 で優勝しました（準備編）"></picture></a><br>
+<a href="https://zenn.dev/muson/articles/49c44db4d1853f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="React/React Native/TypeScriptの圧縮ライブラリ 簡易まとめ"></picture></a><br>
+<a href="https://www.itmedia.co.jp/business/articles/2610/19/news026.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="�ukintone�̑΍R�n�v���&#92;�&#92;���N�X�uASURACORE�v���g�����グ1000���~�h���&#95;���郏�P"></picture></a>
 <!-- END:reading -->
 </div>
 
