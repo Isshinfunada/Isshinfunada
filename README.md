@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった"></picture></a><br>
-<a href="https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH"></picture></a><br>
-<a href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="ng: Neovim のためのシンプルな GUI"></picture></a><br>
-<a href="https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="5年後のエンジニアは、何に責任を持つのだろうか"></picture></a><br>
-<a href="https://www.publickey1.jp/blog/26/postgresql_194ai.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか"></picture></a>
+<a href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="もういい加減&#34;技術勉強会&#34;やめませんか？ - Qiita"></picture></a><br>
+<a href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった"></picture></a><br>
+<a href="https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH"></picture></a><br>
+<a href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="ng: Neovim のためのシンプルな GUI"></picture></a><br>
+<a href="https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="5年後のエンジニアは、何に責任を持つのだろうか"></picture></a>
 <!-- END:reading -->
 </div>
 
