@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/mire0726/articles/1f3f118662a0f5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Go Conference 2026実行委員を終えて"></picture></a><br>
-<a href="https://zenn.dev/mizchi/articles/mutation-test-quality"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="おい、 Mutation Test をやれ。テスト品質を、測るために"></picture></a><br>
-<a href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="もういい加減&#34;技術勉強会&#34;やめませんか？ - Qiita"></picture></a><br>
-<a href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった"></picture></a><br>
-<a href="https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH"></picture></a>
+<a href="https://note.com/nice_deer931/n/n41161c225b14"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="バチカン美術館の見どころと有名作品をご紹介！ラファエロの名画はやはり格別！｜僧侶上田隆弘の旅と読書のブログ 【日々是読書】がモットーです"></picture></a><br>
+<a href="https://zenn.dev/mire0726/articles/1f3f118662a0f5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Go Conference 2026実行委員を終えて"></picture></a><br>
+<a href="https://zenn.dev/mizchi/articles/mutation-test-quality"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="おい、 Mutation Test をやれ。テスト品質を、測るために"></picture></a><br>
+<a href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="もういい加減&#34;技術勉強会&#34;やめませんか？ - Qiita"></picture></a><br>
+<a href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった"></picture></a>
 <!-- END:reading -->
 </div>
 
