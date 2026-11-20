@@ -14,13 +14,6 @@
     "url": "https://music.youtube.com/watch?v=6Px6lu8IBcM"
   },
   {
-    "title": "Make It Out Alive",
-    "artist": "ONE OK ROCK",
-    "plays": 11,
-    "last_played": "2026-11-11T23:05:47Z",
-    "url": "https://music.youtube.com/watch?v=NIioTc_Yz_0"
-  },
-  {
     "title": "溶けない - Tokenai",
     "artist": "Macaroni Empitsu",
     "plays": 10,
@@ -28,9 +21,16 @@
     "url": "https://music.youtube.com/watch?v=2keViezwong"
   },
   {
+    "title": "Make It Out Alive",
+    "artist": "ONE OK ROCK",
+    "plays": 10,
+    "last_played": "2026-11-11T23:05:47Z",
+    "url": "https://music.youtube.com/watch?v=NIioTc_Yz_0"
+  },
+  {
     "title": "駄叉 - Dasa",
     "artist": "jo0ji",
-    "plays": 10,
+    "plays": 9,
     "last_played": "2026-11-19T06:05:04Z",
     "url": "https://music.youtube.com/watch?v=XaIMmPQ9KcM"
   }
