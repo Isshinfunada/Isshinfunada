@@ -2,7 +2,7 @@
   {
     "title": "筆舌 - Hitsu Zetsu",
     "artist": "Radwimps",
-    "plays": 21,
+    "plays": 20,
     "last_played": "2026-11-14T00:05:32Z",
     "url": "https://music.youtube.com/watch?v=X5yaPogkT9I"
   },
@@ -14,13 +14,6 @@
     "url": "https://music.youtube.com/watch?v=6Px6lu8IBcM"
   },
   {
-    "title": "駄叉 - Dasa",
-    "artist": "jo0ji",
-    "plays": 10,
-    "last_played": "2026-11-21T15:05:07Z",
-    "url": "https://music.youtube.com/watch?v=XaIMmPQ9KcM"
-  },
-  {
     "title": "溶けない - Tokenai",
     "artist": "Macaroni Empitsu",
     "plays": 10,
@@ -28,9 +21,16 @@
     "url": "https://music.youtube.com/watch?v=2keViezwong"
   },
   {
+    "title": "駄叉 - Dasa",
+    "artist": "jo0ji",
+    "plays": 9,
+    "last_played": "2026-11-21T15:05:07Z",
+    "url": "https://music.youtube.com/watch?v=XaIMmPQ9KcM"
+  },
+  {
     "title": "恋、はじめました。",
     "artist": "=LOVE",
-    "plays": 9,
+    "plays": 8,
     "last_played": "2026-11-21T15:05:06Z",
     "url": "https://music.youtube.com/watch?v=1wxHLrSmYNg"
   }
