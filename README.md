@@ -29,10 +29,10 @@
 <div align="center">
 <!-- START:reading -->
 <a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a><br>
-<a href="https://note.com/nice_deer931/n/n41161c225b14"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="バチカン美術館の見どころと有名作品をご紹介！ラファエロの名画はやはり格別！｜僧侶上田隆弘の旅と読書のブログ 【日々是読書】がモットーです"></picture></a><br>
-<a href="https://zenn.dev/mire0726/articles/1f3f118662a0f5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Go Conference 2026実行委員を終えて"></picture></a><br>
-<a href="https://zenn.dev/mizchi/articles/mutation-test-quality"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="おい、 Mutation Test をやれ。テスト品質を、測るために"></picture></a><br>
-<a href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="もういい加減&#34;技術勉強会&#34;やめませんか？ - Qiita"></picture></a>
+<a href="https://note.com/yamac_/n/n198bdc344c64"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ"></picture></a><br>
+<a href="https://zenn.dev/karamage/articles/73027ee36796dc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="【TLA+】AIにテストケースを書かせるな。ルールを書け"></picture></a><br>
+<a href="https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="AIに実装を任せても、理解と判断は手放さない：基準・証拠・説明をGoのAPIで試した記録"></picture></a><br>
+<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a>
 <!-- END:reading -->
 </div>
 
