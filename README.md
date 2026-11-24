@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a><br>
-<a href="https://zenn.dev/pkmiya/articles/8e9a3fcc256642"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Cybozu Days JAPAN 2026 に内定者として参加しました！"></picture></a><br>
-<a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a><br>
-<a href="https://note.com/yamac_/n/n198bdc344c64"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ"></picture></a><br>
-<a href="https://zenn.dev/karamage/articles/73027ee36796dc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="【TLA+】AIにテストケースを書かせるな。ルールを書け"></picture></a>
+<a href="https://zenn.dev/ochi_shoichi/books/252daa01819885/viewer/chapter5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Railsで動かすRSpec &#91;Requests spec編&#93;"></picture></a><br>
+<a href="https://zenn.dev/j5ik2o/articles/6c4dbab802c9701fd878"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Error, Defect, Fault, Failureの定義と解釈"></picture></a><br>
+<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a><br>
+<a href="https://zenn.dev/pkmiya/articles/8e9a3fcc256642"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Cybozu Days JAPAN 2026 に内定者として参加しました！"></picture></a><br>
+<a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a>
 <!-- END:reading -->
 </div>
 
