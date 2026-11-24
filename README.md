@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/pkmiya/articles/8e9a3fcc256642"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="Cybozu Days JAPAN 2026 に内定者として参加しました！"></picture></a><br>
-<a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a><br>
-<a href="https://note.com/yamac_/n/n198bdc344c64"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ"></picture></a><br>
-<a href="https://zenn.dev/karamage/articles/73027ee36796dc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="【TLA+】AIにテストケースを書かせるな。ルールを書け"></picture></a><br>
-<a href="https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="AIに実装を任せても、理解と判断は手放さない：基準・証拠・説明をGoのAPIで試した記録"></picture></a>
+<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a><br>
+<a href="https://zenn.dev/pkmiya/articles/8e9a3fcc256642"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="Cybozu Days JAPAN 2026 に内定者として参加しました！"></picture></a><br>
+<a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a><br>
+<a href="https://note.com/yamac_/n/n198bdc344c64"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ"></picture></a><br>
+<a href="https://zenn.dev/karamage/articles/73027ee36796dc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="【TLA+】AIにテストケースを書かせるな。ルールを書け"></picture></a>
 <!-- END:reading -->
 </div>
 
