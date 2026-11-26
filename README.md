@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a><br>
-<a href="https://note.com/delta_ipsilon/n/na996af372d06"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="「もったい」について考える｜Omicron"></picture></a><br>
-<a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a><br>
-<a href="https://speakerdeck.com/ypresto/the-cost-of-the-dom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="The Cost of the DOM"></picture></a><br>
-<a href="https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計"></picture></a>
+<a href="https://piyolog.hatenadiary.jp/entry/2026/11/20/225808"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="受注管理システム「GoQSystem」への不正アクセスについてまとめてみた - piyolog"></picture></a><br>
+<a href="https://pc.watch.impress.co.jp/docs/news/2158884.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！"></picture></a><br>
+<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a><br>
+<a href="https://note.com/delta_ipsilon/n/na996af372d06"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="「もったい」について考える｜Omicron"></picture></a><br>
+<a href="https://zenn.dev/ncdc/articles/dcec80b0c067b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="なぜ今形式検証なのか"></picture></a>
 <!-- END:reading -->
 </div>
 
