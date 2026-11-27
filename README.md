@@ -28,11 +28,11 @@
 
 <div align="center">
 <!-- START:reading -->
-<a href="https://zenn.dev/yamachan0625/books/ddd-hands-on/viewer/chapter4_domain_modeling"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="ドメインモデリング｜【DDD入門】TypeScript × ドメイン駆動設計ハンズオン"></picture></a><br>
-<a href="https://piyolog.hatenadiary.jp/entry/2026/11/20/225808"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="受注管理システム「GoQSystem」への不正アクセスについてまとめてみた - piyolog"></picture></a><br>
-<a href="https://pc.watch.impress.co.jp/docs/news/2158884.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！"></picture></a><br>
-<a href="https://zenn.dev/ruri/articles/code-as-spec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする"></picture></a><br>
-<a href="https://note.com/delta_ipsilon/n/na996af372d06"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="「もったい」について考える｜Omicron"></picture></a>
+<a href="https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-1-dark.svg"><img src="assets/cards/recent-reading-1-light.svg" width="800" alt="サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team"></picture></a><br>
+<a href="https://zenn.dev/okaponta/articles/ea88f9ed0c5be5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-2-dark.svg"><img src="assets/cards/recent-reading-2-light.svg" width="800" alt="ぼくはnullが嫌いだ"></picture></a><br>
+<a href="https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-3-dark.svg"><img src="assets/cards/recent-reading-3-light.svg" width="800" alt="【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開"></picture></a><br>
+<a href="https://zenn.dev/yamachan0625/books/ddd-hands-on/viewer/chapter4_domain_modeling"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-4-dark.svg"><img src="assets/cards/recent-reading-4-light.svg" width="800" alt="ドメインモデリング｜【DDD入門】TypeScript × ドメイン駆動設計ハンズオン"></picture></a><br>
+<a href="https://piyolog.hatenadiary.jp/entry/2026/11/20/225808"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recent-reading-5-dark.svg"><img src="assets/cards/recent-reading-5-light.svg" width="800" alt="受注管理システム「GoQSystem」への不正アクセスについてまとめてみた - piyolog"></picture></a>
 <!-- END:reading -->
 </div>
 
